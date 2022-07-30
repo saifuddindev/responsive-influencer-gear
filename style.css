@@ -173,15 +173,3 @@ li {
         width: auto;
     }
 }
-
-@media only screen and (min-width: 993px) {
-
-    .collection {
-        display: grid;
-        grid-template-columns: repeat(3, 1fr);
-    }
-
-    .navigation {
-        width: auto;
-    }
-}
